@@ -48,43 +48,19 @@
 
 | Role | Email | Password |
 |---|---|---|
-| Customer | dadsvawvid@gmail.com | david4pass |
-| Customer | zoe@gmail.com | passworddef |
-| Customer | jackie@gmail.com | passwordstu |
 | Staff | 1 | password123 |
 | Staff | 10 | davidpa2ss |
-| Staff | 7 | robertpass |
 | Admin | 99999 | 12345 |
 
 ## Screenshots
 ![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/homehomepage.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/register.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/Login.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/homepageloggedin.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/reservation.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/stafflogin.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/postable.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/orderitembeforepay.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/addmemberidandreservationid.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/cashpaid.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/cardpayment.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/billdpanel.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/tablepanel.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/kitchenpanel.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/salespanel.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/statisticspanel.png?raw=true)
-![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/profilespanel.png?raw=true)
-
 
 
 ## Contributors
 
 | Name | Github |
 |---|---|
-| Bryan | https://github.com/BryanTheLai |
-| Yong | https://github.com/ahhyang |
-| Kevin | https://github.com/kevin07212004 |
-| Edzer | https://github.com/edsaur |
+
 
 ## If you want to put a password for the database, change the config.php files.
 
